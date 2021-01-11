@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi Everyone 👋🏻
 
-<!--
-**adi1103sh/adi1103sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Greetings 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Myself, Adarsh Sharma CSE Undergrad from BIRLA INTITUTE OF TECHNOLOGY, MESRA.
+
+
+- 🔭 I’m currently working on Web Development.
+- 🔧 I’m also developing fluency over Data Structures and Algorithms.
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 💬 Ask me about programming languages(Java, Python, C as of now)
+- 📫 How to reach me: 
+     1. linkedin.com/in/adarsh-sharma-a0b089194
+     2. adarshballabh.sharma@yahoo.com 
+- 😄 Pronouns: Naturalist Learner Listener 
+- ⚡ Fun fact: Cricketer by PASSION.
+
+• Fond of learning technologies 👨‍🏫 and extending help 🤝 to lead a fruitful life 😇
+
+• Focus more on LEARNING ✍️ rather than COMPETING 💪
+
+• Open for all suggestions ✌️
