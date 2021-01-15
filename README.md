@@ -13,7 +13,7 @@ Myself, Adarsh Sharma CSE Undergrad from BIRLA INTITUTE OF TECHNOLOGY, MESRA.
 - 📫 How to reach me: 
      1. linkedin.com/in/adarsh-sharma-a0b089194
      2. adarshballabh.sharma@yahoo.com 
-- 😄 Pronouns: Naturalist Learner Listener 
+- 😄 Pronouns: he/his/him
 - ⚡ Fun fact: Cricketer by PASSION.
 
 • Fond of learning technologies 👨‍🏫 and extending help 🤝 to lead a fruitful life 😇
