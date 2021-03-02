@@ -11,7 +11,7 @@ Myself, Adarsh Sharma CSE Undergrad from BIRLA INTITUTE OF TECHNOLOGY, MESRA.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💬 Ask me about programming languages(Java, Python, C, C++ as of now)
 - 📫 How to reach me: 
-     1. https://www.linkedin.com/in/adarsh-sharma-a0b089194/
+     1. www.linkedin.com/in/adarshsharma11
      2. adarshballabh.sharma@yahoo.com 
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: Cricketer by PASSION.
