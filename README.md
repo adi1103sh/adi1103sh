@@ -3,7 +3,7 @@
 ### Greetings 
 
 
-Myself, Adarsh Sharma CSE Undergrad from BIRLA INTITUTE OF TECHNOLOGY, MESRA.
+This is Adarsh Sharma CSE Undergrad from BIRLA INTITUTE OF TECHNOLOGY, MESRA.
 
 
 - 🔭 I’m currently working on Web Development.
