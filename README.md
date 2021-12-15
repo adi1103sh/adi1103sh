@@ -20,4 +20,4 @@ This is Adarsh Sharma CSE Undergrad from BIRLA INTITUTE OF TECHNOLOGY, MESRA.
 
 • Focus more on LEARNING ✍️ rather than COMPETING 💪
 
-• Open for all suggestions ✌️
+• Open to all suggestions ✌️
