@@ -42,4 +42,6 @@
 
 </br>
 
-<a align="center" href="https://www.linkedin.com/in/adarshsharma11/"><img align="left" src="https://raw.github.com/adi1103sh/adi1103sh/main/Contacts/Linkedin.png" alt="Adarsh Sharma | LinkedIn" width="210px"/></a>
+## 📧 Reach Out
+
+<p align="center"><a href="https://www.linkedin.com/in/adarshsharma11/"><img src="https://github.com/adi1103sh/adi1103sh/main/Contacts/Linkedin.png" alt="Adarsh Sharma | LinkedIn" width="210px"/>  <a href="adarshballabh.sharma11@gmail.com"><img src="https://github.com/adi1103sh/adi1103sh/main/Contacts/Gmail.png" alt="Adarsh Sharma | Gmail" width="210px"/></a></p>
