@@ -39,3 +39,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/adi1103sh)
+
+</br>
+
+<a align="center" href="https://www.linkedin.com/in/adarshsharma11/"><img align="left" src="https://raw.github.com/adi1103sh/adi1103sh/main/Contacts/Linkedin.png" alt="Adarsh Sharma | LinkedIn" width="210px"/></a>
