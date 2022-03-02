@@ -28,7 +28,7 @@
 ● Open to all suggestions ✌🏿
 
 
-
+</br>
 
 
 ## 📈 GitHub Stats
@@ -40,8 +40,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/adi1103sh)
 
+
+</br>
 </br>
 
 ## 📧 Reach Out
-
-<p align="center"><a href="https://www.linkedin.com/in/adarshsharma11/"><img src="https://github.com/adi1103sh/adi1103sh/main/Contacts/Linkedin.png" alt="Adarsh Sharma | LinkedIn" width="210px"/>  <a href="adarshballabh.sharma11@gmail.com"><img src="https://github.com/adi1103sh/adi1103sh/main/Contacts/Gmail.png" alt="Adarsh Sharma | Gmail" width="210px"/></a></p>
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/adarshsharma11/"><img src="https://raw.github.com/adi1103sh/adi1103sh/main/Contacts/Linkedin.png" alt="Adarsh Sharma | LinkedIn" width="300px" height="200px" />  <a href="adarshballabh.sharma11@gmail.com"><img src="https://raw.github.com/adi1103sh/adi1103sh/main/Contacts/Gmail.png" alt="Adarsh Sharma | Gmail" width="150px" height="200px"/></a> -->
