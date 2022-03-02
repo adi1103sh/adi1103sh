@@ -46,4 +46,4 @@
 
 ## 📧 Reach Out
 
-<a href="https://www.linkedin.com/in/adarshsharma11/"><img src="https://raw.github.com/adi1103sh/adi1103sh/main/Contacts/Gmail.png" alt="Adarsh Sharma | Gmail" width="150px" height="200px"/>" <img align= src="https://raw.github.com/adi1103sh/adi1103sh/main/Contacts/Gmail.png" alt="Adarsh Sharma | Gmail" width="150px" height="200px"/>" </a>
+<p align="center"><a href="https://www.linkedin.com/in/adarshsharma11/"><img src="https://raw.github.com/adi1103sh/adi1103sh/main/assets/Connect with me.gif" alt="Adarsh Sharma | LinkedIn" width="350px"/></a> <a href="adarshballabh.sharma11@gmail.com"><img src="https://raw.github.com/adi1103sh/adi1103sh/main/assets/Write to me.gif" alt="Adarsh Sharma | Gmail" width="350px"/>" </a></p>
