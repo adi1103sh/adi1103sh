@@ -46,4 +46,4 @@
 
 ## 📧 Reach Out
 
-<p align="center"><a href="https://www.linkedin.com/in/adarshsharma11/"><img src="https://raw.github.com/adi1103sh/adi1103sh/main/assets/Connect with me.gif" alt="Adarsh Sharma | LinkedIn" width="350px"/></a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrglpKPNnCnqDslkCSPDWdzsPhmHhnrDFBSnhqhcDxCgdBJHmsZhJvsKhHZkBRLKbSXxNB"><img src="https://raw.github.com/adi1103sh/adi1103sh/main/assets/Write to me.gif" alt="Adarsh Sharma | Gmail" width="350px"/>" </a></p>
+<p align="center"><a href="https://www.linkedin.com/in/adarshsharma11/"><img src="https://raw.github.com/adi1103sh/adi1103sh/main/assets/Connect with me.gif" alt="Adarsh Sharma | LinkedIn" height="300px"/></a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrglpKPNnCnqDslkCSPDWdzsPhmHhnrDFBSnhqhcDxCgdBJHmsZhJvsKhHZkBRLKbSXxNB"><img src="https://raw.github.com/adi1103sh/adi1103sh/main/assets/Write to me.gif" alt="Adarsh Sharma | Gmail" height="300px"/>" </a></p>
