@@ -4,7 +4,7 @@
 ### <h1 align="center">Greetings</h1> 
 
 
-<h3 align="center">This is ADARSH SHARMA, CS Undergrad from BIRLA INTITUTE OF TECHNOLOGY, MESRA.</h3>
+<h2 align="center">This is ADARSH SHARMA, CS Scholar from BIRLA INTITUTE OF TECHNOLOGY, MESRA.</h2>
 </br>
 
 ↬ 🔭 I’m currently working on Full Stack Web Development(MERN).
@@ -13,7 +13,7 @@
 
 ↬ 🌱 I’m currently learning React.js.
 
-↬ 💬 Ask me about programming languages(Java, Python, C/C++)
+↬ 💬 Ask me about programming languages(C/C++, Python, Java, JavaScript)
 
 ↬ 😄 Pronouns: he/his/him
 
@@ -21,11 +21,11 @@
 
 </br>
           
-● Fond of learning technologies 👨‍🏫 and extending help 🤝🏿 to lead a fruitful life 😇
+● Fond of learning technologies 👨‍🏫 and extending help 🤝🏼 to lead a fruitful life 😇
 
-● Focus more on LEARNING ✍🏿 rather than COMPETING 💪🏿
+● Focus more on LEARNING ✍🏼 rather than COMPETING 💪🏼
 
-● Open to all suggestions ✌🏿
+● Open to all suggestions ✌🏼
 
 
 </br>
@@ -38,7 +38,7 @@
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=adi1103sh)](https://github.com/adi1103sh)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/adi1103sh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adi1103sh&layout=compact)](https://github.com/adi1103sh)
 
 
 </br>
