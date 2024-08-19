@@ -4,7 +4,7 @@
 ### <h1 align="center">Greetings</h1> 
 
 
-<h2 align="center">This is ADARSH SHARMA.</h2>
+<h2 align="center">This is ADARSH SHARMA</h2>
 </br>
 
 ↬ 🔭 I’m working on Backend Development(Java).
