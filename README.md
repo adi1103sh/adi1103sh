@@ -4,16 +4,16 @@
 ### <h1 align="center">Greetings</h1> 
 
 
-<h2 align="center">This is ADARSH SHARMA, CS Scholar from BIRLA INTITUTE OF TECHNOLOGY, MESRA.</h2>
+<h2 align="center">This is ADARSH SHARMA.</h2>
 </br>
 
-↬ 🔭 I’m currently working on Full Stack Web Development(MERN).
+↬ 🔭 I’m working on Backend Development(Java).
 
-↬ 🔧 I’m also developing fluency over Data Structures and Algorithms.
+↬ 🔧 I’m also developing fluency in Spring/SpringBoot & Microservices.
 
-↬ 🌱 I’m currently learning React.js.
+↬ 🌱 I’m currently learning CI/CD.
 
-↬ 💬 Ask me about programming languages(C/C++, Python, Java, JavaScript)
+↬ 💬 Ask me about programming languages(Java, Python, C/C++, JavaScript)
 
 ↬ 😄 Pronouns: he/his/him
 
